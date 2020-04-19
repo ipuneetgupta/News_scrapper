@@ -1833,3 +1833,1607 @@ JavaScript error: , line 0: UnknownError: The operation failed for reasons unrel
 1587124540207	Marionette	INFO	Listening on port 46035
 1587124540291	Marionette	WARN	TLS certificate errors will be ignored for this session
 1587124595429	Marionette	INFO	Stopped listening on port 46035
+1587193960901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile64QBi4"
+1587193962064	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587193965080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587193965080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587193965080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587193965080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587193969283	Marionette	INFO	Listening on port 35323
+1587193969364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587194549769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1gkYh5"
+1587194551151	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587194552346	Marionette	INFO	Stopped listening on port 35323
+1587194553455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587194553455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587194553455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587194553456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587194555318	Marionette	INFO	Listening on port 34215
+1587194555385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587194842636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBdNSTE"
+1587194843392	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587194845542	Marionette	INFO	Stopped listening on port 34215
+1587194846449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587194846449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587194846449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587194846450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587194848406	Marionette	INFO	Listening on port 37603
+1587194848450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587195035760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb8DWTd"
+1587195036376	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587195038413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587195038413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587195038413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587195038413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587195041310	Marionette	INFO	Stopped listening on port 37603
+1587195042263	Marionette	INFO	Listening on port 46063
+1587195042282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587195047694	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195113447	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195150447	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195513171	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195527798	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195541427	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195559600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled2k9oV"
+1587195560285	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587195561760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587195561760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587195561760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587195561760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587195563670	Marionette	INFO	Listening on port 38919
+1587195563711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587195568641	Marionette	INFO	Stopped listening on port 46063
+1587195569387	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195606094	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587195626950	Marionette	INFO	Stopped listening on port 38919
+1587195631775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCid2M9"
+1587195632385	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587195633916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587195633916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587195633916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587195633916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587195635755	Marionette	INFO	Listening on port 33223
+1587195635789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587195641054	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195744216	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587195765724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehqGTbw"
+1587195766302	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587195768033	Marionette	INFO	Stopped listening on port 33223
+1587195768609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587195768609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587195768610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587195768610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587195770667	Marionette	INFO	Listening on port 37561
+1587195770738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587195776076	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195809019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTWm7b2"
+1587195810050	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587195811832	Marionette	INFO	Stopped listening on port 37561
+1587195812468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587195812468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587195812468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587195812468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587195814288	Marionette	INFO	Listening on port 33285
+1587195814333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587195819828	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195888717	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195952792	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195966670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUWj221"
+1587195967284	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587195969040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587195969040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587195969040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587195969040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587195969292	Marionette	INFO	Stopped listening on port 33285
+1587195970898	Marionette	INFO	Listening on port 39781
+1587195970985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587195975973	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587195982458	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196007651	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196016500	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196033343	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196046983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile25BHnc"
+1587196047674	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587196049078	Marionette	INFO	Stopped listening on port 39781
+1587196049852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587196049852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587196049852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587196049852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587196051563	Marionette	INFO	Listening on port 33967
+1587196051596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587196057184	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196082780	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196092604	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196105844	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196111533	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1587196259772	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587196311530	Marionette	INFO	Stopped listening on port 33967
+1587196316734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV5nwNx"
+1587196317349	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587196318894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587196318894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587196318894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587196318894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587196320777	Marionette	INFO	Listening on port 35953
+1587196320847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587196580199	Marionette	INFO	Stopped listening on port 35953
+1587196585709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSiWV23"
+1587196586325	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587196587820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587196587820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587196587820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587196587821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587196589556	Marionette	INFO	Listening on port 39771
+1587196589621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587197408155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekQhgPB"
+1587197408735	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587197410486	Marionette	INFO	Stopped listening on port 39771
+1587197411219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587197411219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587197411219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587197411219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587197413138	Marionette	INFO	Listening on port 40865
+1587197413172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587197523867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevcbuqo"
+1587197524417	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1587197525964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587197525964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587197525964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587197525964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587197526713	Marionette	INFO	Stopped listening on port 40865
+1587197528123	Marionette	INFO	Listening on port 39033
+1587197528183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587197750434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF96L3j"
+1587197751099	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587197753023	Marionette	INFO	Stopped listening on port 39033
+1587197753949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587197753949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587197753949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587197753949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587197755860	Marionette	INFO	Listening on port 35163
+1587197755962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1587197989547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewbpumT"
+1587197990100	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587197991589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587197991589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587197991589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587197991589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587197993596	Marionette	INFO	Listening on port 36095
+1587197993674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587198098270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZNjuBf"
+1587198098873	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587198100182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587198100182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587198100182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587198100182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587198102135	Marionette	INFO	Listening on port 33285
+1587198102188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587198105399	Marionette	INFO	Stopped listening on port 36095
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587199862985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVBdXKY"
+1587199863603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587199865467	Marionette	INFO	Stopped listening on port 33285
+1587199866405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587199866406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587199866406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587199866406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587199868177	Marionette	INFO	Listening on port 45189
+1587199868214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/modules/cookiemanager.js, line 5: ReferenceError: Optanon is not defined
+JavaScript error: https://www.fifa.com/CompiledAssets/js/modules/cookiemanager.js, line 5: ReferenceError: Optanon is not defined
+JavaScript error: https://www.fifa.com/CompiledAssets/js/modules/cookiemanager.js, line 5: ReferenceError: Optanon is not defined
+1587199920470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXz7QO8"
+1587199921030	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587199922531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587199922531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587199922531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587199922532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587199924387	Marionette	INFO	Listening on port 44013
+1587199924480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587199930336	Marionette	INFO	Stopped listening on port 45189
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587199960808	Marionette	INFO	Stopped listening on port 44013
+1587199964416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoCNOwM"
+1587199964986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587199966291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587199966292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587199966292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587199966292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587199968163	Marionette	INFO	Listening on port 40337
+1587199968227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587200051495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Jpemg"
+1587200052464	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587200052860	Marionette	INFO	Stopped listening on port 40337
+1587200054227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587200054227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587200054227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587200054227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587200056124	Marionette	INFO	Listening on port 45561
+1587200056213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1587200133832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIt3rFg"
+1587200134406	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587200135920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587200135920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587200135920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587200135920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587200137898	Marionette	INFO	Listening on port 42471
+1587200137944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+1587200246247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200253149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200260697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200267933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200274245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200278953	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200285605	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200292071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200299760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200307243	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200314015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587200320999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587200477278	Marionette	INFO	Stopped listening on port 42471
+1587200496087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledDyDjK"
+1587200496631	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587200498174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587200498175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587200498175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587200498175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587200500067	Marionette	INFO	Listening on port 45183
+1587200500097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587201669394	Marionette	INFO	Stopped listening on port 45183
+1587201683080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZBadch"
+1587201683663	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587201685186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587201685186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587201685186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587201685186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587201687013	Marionette	INFO	Listening on port 43389
+1587201687092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587201743657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIXomDS"
+1587201744381	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1587201746166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587201746166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587201746166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587201746166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587201746983	Marionette	INFO	Stopped listening on port 43389
+1587201748079	Marionette	INFO	Listening on port 33259
+1587201748172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587201793984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegY2vRX"
+1587201794623	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587201796448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587201796448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587201796448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587201796448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587201797292	Marionette	INFO	Stopped listening on port 33259
+1587201798554	Marionette	INFO	Listening on port 36235
+1587201798596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587201919375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVdIKMj"
+1587201920176	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587201921525	Marionette	INFO	Stopped listening on port 36235
+1587201922428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587201922428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587201922428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587201922428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587201924305	Marionette	INFO	Listening on port 33335
+1587201924395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587202031887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5DLlOp"
+1587202032691	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587202034828	Marionette	INFO	Stopped listening on port 33335
+1587202034883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587202034883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587202034883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587202034883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587202036693	Marionette	INFO	Listening on port 33045
+1587202036714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1587202503074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel0UyzB"
+1587202503826	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587202505773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587202505773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587202505773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587202505773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587202508200	Marionette	INFO	Listening on port 33713
+1587202508296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587202509287	Marionette	INFO	Stopped listening on port 33045
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/modules/cookiemanager.js, line 5: ReferenceError: Optanon is not defined
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587202554349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2HAoM6"
+1587202555251	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587202557198	Marionette	INFO	Stopped listening on port 33713
+1587202558126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587202558126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587202558126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587202558126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587202560138	Marionette	INFO	Listening on port 42837
+1587202560169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1587202672692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFtwgYy"
+1587202673339	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587202674992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587202674992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587202674992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587202674992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587202676035	Marionette	INFO	Stopped listening on port 42837
+1587202677232	Marionette	INFO	Listening on port 41737
+1587202677309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587203022959	Marionette	INFO	Stopped listening on port 41737
+1587203058940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiYBLKm"
+1587203059543	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587203061052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587203061052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587203061053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587203061053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587203062996	Marionette	INFO	Listening on port 46493
+1587203063053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1587203325697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAkN1yM"
+1587203326382	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587203328317	Marionette	INFO	Stopped listening on port 46493
+1587203329244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587203329244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587203329244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587203329244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587203331262	Marionette	INFO	Listening on port 36009
+1587203331313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587203377003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCDD3Xe"
+1587203377903	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587203379684	Marionette	INFO	Stopped listening on port 36009
+1587203380505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587203380505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587203380505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587203380506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587203382487	Marionette	INFO	Listening on port 35671
+1587203382520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1587203613760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledRJSaz"
+1587203614799	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587203616994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587203616994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587203616995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587203616995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587203618270	Marionette	INFO	Stopped listening on port 35671
+1587203619304	Marionette	INFO	Listening on port 41051
+1587203619394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+1587203658382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZEmhT0"
+1587203659098	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1587203661589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587203661589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587203661590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587203661590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587203663082	Marionette	INFO	Stopped listening on port 41051
+1587203664106	Marionette	INFO	Listening on port 35715
+1587203665238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/table.js?t=fde50204def0fe8e844500172dc99487"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587203960269	Marionette	INFO	Stopped listening on port 35715
+1587296009608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBrBS7A"
+1587296011701	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587296014731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587296014731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587296014731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587296014731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587296020192	Marionette	INFO	Listening on port 35081
+1587296020274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1587296075255	Marionette	INFO	Stopped listening on port 35081
+1587296117446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBxyYaE"
+1587296118063	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587296119669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587296119669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587296119670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587296119670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587296121721	Marionette	INFO	Listening on port 43421
+1587296121759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/tabsManager.js?t=1ceaa1aaea36dd6900dd75f5283de3e1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/timeConverter.js?t=cc6c071a7c42d20b9791879ac449e305"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/fancybox.js?t=58be09b28c44705062c53f73b26a68b5"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/carousel.js?t=a5f4479dfb393ccc55434defdb59d10c"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 348: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2019: unreachable code after return statement
+JavaScript warning: https://www.fifa.com/CompiledAssets/js/main.js?_t=244452e13a9a5e34bad9c2ead755f238, line 2417: unreachable code after return statement
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/lazysizes/lazysizes.min.js?_t=739e7d27e1cbc58b1b2e6882674b8867, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.fifa.com/CompiledAssets/js/vendor/requirejs/require-2.2.0.min.js?_t=5a25cd3d1c6c9687e2ccee58c3b25df2, line 7: Error: Script error for "/CompiledAssets/js/modules/gallery.js?t=25ad19f568685873b8ad5130bc9f21b4"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1587296182972	Marionette	INFO	Stopped listening on port 43421
